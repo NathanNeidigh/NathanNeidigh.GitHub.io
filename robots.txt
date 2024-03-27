@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://NathanNeidigh.github.io//sitemap.xml
