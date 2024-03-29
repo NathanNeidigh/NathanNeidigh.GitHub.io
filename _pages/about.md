@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>nathan.neidigh@outlook.com</p>
     <p>(508) 365-8377)</p>
-    <p>Worchester County, MA</p>
+    <p>Bolton, MA</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

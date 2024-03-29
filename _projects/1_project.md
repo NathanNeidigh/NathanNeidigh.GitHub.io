@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: PharoGs
+description: an open-source project to host Pharo Smalltalk in GemStone.
 img: assets/img/12.jpg
 importance: 1
 category: work
